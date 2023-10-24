@@ -1,0 +1,26 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    text-align: center;
+    color: #312A29;
+
+}
+
+.link_div{
+    background-color: aliceblue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+a {
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
