@@ -1,12 +1,27 @@
 *{
     font-family: 'Courier New', Courier, monospace;
 }
-.title{
+body{
+    background-color: #F4EAE9;
+}
+h1,h2 {
     text-align: center;
     color: #312A29;
-
 }
-
+h3{
+    margin-left: 10px;
+}
+p {
+    text-align: left;
+    margin-left: 10px;
+}
+ul,ol{
+    background-color: #E9E9E9;
+    padding: 8px 8px 8px 20px;
+}
+li{
+    margin: 3px 0px 3px 10px;
+}
 .link_div{
     background-color: aliceblue;
     margin-top: 5px;
@@ -16,7 +31,7 @@
 a {
     text-align: center;
 }
-img {
+.food_img {
     width: 300px;
     height: auto;
     display: block;
